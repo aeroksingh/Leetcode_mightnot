@@ -24,6 +24,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1980-find-unique-binary-string) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 ## Stack
 |  |
 | ------- |
