@@ -41,6 +41,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -53,4 +54,8 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1980-find-unique-binary-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->
