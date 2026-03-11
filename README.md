@@ -65,4 +65,20 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1009-complement-of-base-10-integer) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
