@@ -14,6 +14,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0050-powx-n) |
 ## Matrix
 |  |
 | ------- |
@@ -103,4 +104,8 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [2295-replace-elements-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2295-replace-elements-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
