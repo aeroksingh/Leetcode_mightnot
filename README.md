@@ -14,6 +14,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [2295-replace-elements-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2295-replace-elements-in-an-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Math
 |  |
@@ -70,6 +71,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1980-find-unique-binary-string) |
 | [2295-replace-elements-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2295-replace-elements-in-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -122,6 +124,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2295-replace-elements-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2295-replace-elements-in-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -136,4 +139,17 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
