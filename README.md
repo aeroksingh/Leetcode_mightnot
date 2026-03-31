@@ -56,6 +56,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1980-find-unique-binary-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1980-find-unique-binary-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Stack
 |  |
 | ------- |
@@ -67,6 +68,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0316-remove-duplicate-letters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0334-increasing-triplet-subsequence) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -199,4 +201,8 @@ This repository will be holding the Leetcode submissions of my way solved.
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3548-equal-sum-grid-partition-ii) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
