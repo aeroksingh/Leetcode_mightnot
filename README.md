@@ -8,6 +8,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | ------- |
 | [0048-rotate-image](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0048-rotate-image) |
 | [0334-increasing-triplet-subsequence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0334-increasing-triplet-subsequence) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0485-max-consecutive-ones) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1470-shuffle-the-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1470-shuffle-the-array) |
@@ -93,6 +94,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1980-find-unique-binary-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1980-find-unique-binary-string) |
 | [2295-replace-elements-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2295-replace-elements-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
