@@ -14,6 +14,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1470-shuffle-the-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1470-shuffle-the-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1929-concatenation-of-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1980-find-unique-binary-string) |
