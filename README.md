@@ -10,6 +10,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0046-permutations](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0090-subsets-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -48,6 +49,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0079-word-search) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -63,6 +65,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0131-palindrome-partitioning) |
 | [0316-remove-duplicate-letters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0316-remove-duplicate-letters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -119,6 +122,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0039-combination-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0131-palindrome-partitioning) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -155,6 +159,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0112-path-sum) |
