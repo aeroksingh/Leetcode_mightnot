@@ -62,6 +62,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0131-palindrome-partitioning) |
 | [0316-remove-duplicate-letters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0316-remove-duplicate-letters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -91,6 +92,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0131-palindrome-partitioning) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -116,6 +118,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0046-permutations](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0131-palindrome-partitioning) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1980-find-unique-binary-string) |
 ## Prefix Sum
