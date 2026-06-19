@@ -178,6 +178,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0543-diameter-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0886-possible-bipartition) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -190,6 +191,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0404-sum-of-left-leaves](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0785-is-graph-bipartite](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0886-possible-bipartition) |
 ## Binary Tree
 |  |
 | ------- |
@@ -268,8 +270,10 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0886-possible-bipartition) |
 ## Graph Theory
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
