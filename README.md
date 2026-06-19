@@ -177,6 +177,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0404-sum-of-left-leaves](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0543-diameter-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -188,6 +189,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0226-invert-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0785-is-graph-bipartite](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -262,4 +264,12 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
