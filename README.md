@@ -69,6 +69,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0006-zigzag-conversion) |
 | [0079-word-search](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0131-palindrome-partitioning) |
 | [0316-remove-duplicate-letters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0316-remove-duplicate-letters) |
