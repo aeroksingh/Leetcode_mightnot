@@ -20,6 +20,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0485-max-consecutive-ones](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0485-max-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1049-last-stone-weight-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1049-last-stone-weight-ii) |
 | [1470-shuffle-the-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1470-shuffle-the-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -110,6 +111,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0131-palindrome-partitioning](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0746-min-cost-climbing-stairs) |
+| [1049-last-stone-weight-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1049-last-stone-weight-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
