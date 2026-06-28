@@ -32,6 +32,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1929-concatenation-of-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1980-find-unique-binary-string) |
 | [2295-replace-elements-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2295-replace-elements-in-an-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2540-minimum-common-value](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2906-construct-product-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2906-construct-product-matrix) |
@@ -166,6 +167,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0078-subsets](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0090-subsets-ii) |
 | [1009-complement-of-base-10-integer](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1009-complement-of-base-10-integer) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Tree
 |  |
