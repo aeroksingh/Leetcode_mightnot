@@ -178,6 +178,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0111-minimum-depth-of-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0543-diameter-of-binary-tree) |
@@ -190,6 +191,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0112-path-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0112-path-sum) |
 | [0210-course-schedule-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0543-diameter-of-binary-tree) |
@@ -219,6 +221,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0111-minimum-depth-of-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0543-diameter-of-binary-tree) |
@@ -268,6 +271,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0033-search-in-rotated-sorted-array) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2540-minimum-common-value](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2540-minimum-common-value) |
