@@ -26,6 +26,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1470-shuffle-the-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1470-shuffle-the-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1720-decode-xored-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1720-decode-xored-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -172,6 +173,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0090-subsets-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0090-subsets-ii) |
 | [1009-complement-of-base-10-integer](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1009-complement-of-base-10-integer) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1720-decode-xored-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Tree
