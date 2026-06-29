@@ -53,6 +53,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | ------- |
 | [0048-rotate-image](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0070-climbing-stairs) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -112,6 +113,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0213-house-robber-ii) |
@@ -318,4 +320,8 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
