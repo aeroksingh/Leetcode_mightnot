@@ -32,6 +32,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1848-minimum-distance-to-the-target-element](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1929-concatenation-of-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1980-find-unique-binary-string) |
 | [2295-replace-elements-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2295-replace-elements-in-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -89,6 +90,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1812-determine-color-of-a-chessboard-square](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1980-find-unique-binary-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
