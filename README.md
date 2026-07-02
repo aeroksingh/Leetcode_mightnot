@@ -6,6 +6,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0046-permutations) |
@@ -141,6 +142,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1358-number-of-substrings-containing-all-three-characters) |
