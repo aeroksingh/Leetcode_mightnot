@@ -24,6 +24,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0746-min-cost-climbing-stairs](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1049-last-stone-weight-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1049-last-stone-weight-ii) |
+| [1260-shift-2d-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1260-shift-2d-grid) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1470-shuffle-the-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1470-shuffle-the-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -69,6 +70,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0048-rotate-image](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0079-word-search) |
+| [1260-shift-2d-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1260-shift-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -249,6 +251,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1929-concatenation-of-array) |
 | [2295-replace-elements-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2295-replace-elements-in-an-array) |
