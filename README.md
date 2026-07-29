@@ -7,6 +7,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0046-permutations) |
@@ -113,6 +114,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0334-increasing-triplet-subsequence) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -292,6 +294,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0189-rotate-array) |
 | [2540-minimum-common-value](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3643-flip-square-submatrix-vertically) |
