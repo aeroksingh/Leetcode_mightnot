@@ -25,6 +25,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0485-max-consecutive-ones](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0485-max-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0877-stone-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1049-last-stone-weight-ii) |
 | [1260-shift-2d-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1260-shift-2d-grid) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -63,6 +64,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0062-unique-paths](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0877-stone-game) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -135,6 +137,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0213-house-robber-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1049-last-stone-weight-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -348,4 +351,16 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0062-unique-paths) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
