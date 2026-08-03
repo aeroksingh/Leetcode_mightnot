@@ -23,6 +23,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0334-increasing-triplet-subsequence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0877-stone-game) |
@@ -309,6 +310,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0033-search-in-rotated-sorted-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0033-search-in-rotated-sorted-array) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0704-binary-search](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0704-binary-search) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2540-minimum-common-value](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2540-minimum-common-value) |
 ## Enumeration
