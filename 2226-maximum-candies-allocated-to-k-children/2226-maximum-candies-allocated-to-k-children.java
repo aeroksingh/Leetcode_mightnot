@@ -26,14 +26,4 @@ class Solution {
 
         return high;
     }
-
-    private long findp(int[] candies, int mid) {
-    long children = 0;
-
-    for (int pile : candies) {
-        children += pile / mid;
-    }
-
-    return children;
-}
 }
