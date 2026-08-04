@@ -46,6 +46,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1929-concatenation-of-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1980-find-unique-binary-string) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2295-replace-elements-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2295-replace-elements-in-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2540-minimum-common-value](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2540-minimum-common-value) |
@@ -326,6 +327,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0875-koko-eating-bananas](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2540-minimum-common-value](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2540-minimum-common-value) |
 ## Enumeration
 |  |
