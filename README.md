@@ -17,6 +17,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0078-subsets](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0090-subsets-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0322-coin-change) |
@@ -308,6 +309,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0704-binary-search](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0704-binary-search) |
