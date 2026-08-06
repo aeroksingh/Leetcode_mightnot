@@ -77,6 +77,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1812-determine-color-of-a-chessboard-square](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3270-find-the-key-of-the-numbers](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3270-find-the-key-of-the-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Matrix
 |  |
