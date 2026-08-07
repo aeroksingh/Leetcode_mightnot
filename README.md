@@ -47,6 +47,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1929-concatenation-of-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1980-find-unique-binary-string) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2295-replace-elements-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2295-replace-elements-in-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -135,6 +136,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0410-split-array-largest-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0410-split-array-largest-sum) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Monotonic Stack
 |  |
@@ -295,6 +297,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3731-find-missing-elements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -388,4 +391,8 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0877-stone-game) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
