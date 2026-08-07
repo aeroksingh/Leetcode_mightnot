@@ -39,6 +39,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1470-shuffle-the-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1470-shuffle-the-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1710-maximum-units-on-a-truck](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1710-maximum-units-on-a-truck) |
 | [1720-decode-xored-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1720-decode-xored-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1732-find-the-highest-altitude) |
@@ -135,6 +136,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0316-remove-duplicate-letters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0410-split-array-largest-sum) |
+| [1710-maximum-units-on-a-truck](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -297,6 +299,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1122-relative-sort-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1122-relative-sort-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1710-maximum-units-on-a-truck](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
