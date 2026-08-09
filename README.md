@@ -110,6 +110,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0131-palindrome-partitioning](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0316-remove-duplicate-letters) |
+| [0844-backspace-string-compare](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -128,6 +129,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0316-remove-duplicate-letters) |
+| [0844-backspace-string-compare](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
 |  |
@@ -283,6 +285,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1929-concatenation-of-array) |
@@ -331,6 +334,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0011-container-with-most-water](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0189-rotate-array) |
+| [0844-backspace-string-compare](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0844-backspace-string-compare) |
 | [2540-minimum-common-value](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search Tree
