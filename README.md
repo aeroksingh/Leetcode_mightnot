@@ -51,6 +51,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1901-find-a-peak-element-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1980-find-unique-binary-string) |
@@ -101,6 +102,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1901-find-a-peak-element-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1901-find-a-peak-element-ii) |
 | [2906-construct-product-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -370,6 +372,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0875-koko-eating-bananas](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1901-find-a-peak-element-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1901-find-a-peak-element-ii) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2540-minimum-common-value](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2540-minimum-common-value) |
 | [2560-house-robber-iv](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2560-house-robber-iv) |
