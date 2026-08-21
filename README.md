@@ -14,6 +14,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0046-permutations](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0078-subsets) |
@@ -154,6 +155,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0334-increasing-triplet-subsequence) |
@@ -174,6 +176,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0070-climbing-stairs) |
