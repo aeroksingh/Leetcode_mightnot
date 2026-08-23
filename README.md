@@ -95,6 +95,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1812-determine-color-of-a-chessboard-square](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1927-sum-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1927-sum-game) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3270-find-the-key-of-the-numbers](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3270-find-the-key-of-the-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -137,6 +138,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1812-determine-color-of-a-chessboard-square](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1927-sum-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1980-find-unique-binary-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -164,6 +166,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1710-maximum-units-on-a-truck](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1927-sum-game) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2560-house-robber-iv](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2560-house-robber-iv) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -447,6 +450,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
