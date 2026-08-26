@@ -132,6 +132,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0131-palindrome-partitioning](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0316-remove-duplicate-letters) |
+| [0424-longest-repeating-character-replacement](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0844-backspace-string-compare) |
@@ -208,6 +209,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -215,6 +217,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0001-two-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0560-subarray-sum-equals-k) |
