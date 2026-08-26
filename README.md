@@ -14,6 +14,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0046-permutations](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0075-sort-colors) |
@@ -107,6 +108,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0079-word-search) |
 | [0566-reshape-the-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0566-reshape-the-matrix) |
@@ -336,6 +338,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1260-shift-2d-grid) |
