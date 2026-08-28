@@ -28,6 +28,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0189-rotate-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0213-house-robber-ii) |
+| [0239-sliding-window-maximum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0260-single-number-iii) |
 | [0322-coin-change](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0334-increasing-triplet-subsequence) |
@@ -211,6 +212,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -373,6 +375,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0239-sliding-window-maximum) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
@@ -486,4 +489,16 @@ This repository will be holding the Leetcode submissions of my way solved.
 | ------- |
 | [0075-sort-colors](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1122-relative-sort-array) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
