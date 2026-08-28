@@ -131,6 +131,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0006-zigzag-conversion) |
+| [0076-minimum-window-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0179-largest-number) |
@@ -212,6 +213,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -221,6 +223,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0500-keyboard-row) |
