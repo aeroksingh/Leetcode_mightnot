@@ -76,6 +76,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2906-construct-product-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -372,6 +373,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3731-find-missing-elements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3731-find-missing-elements) |
@@ -440,6 +442,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0886-possible-bipartition) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
 | ------- |
