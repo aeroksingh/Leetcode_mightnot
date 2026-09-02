@@ -36,6 +36,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0566-reshape-the-matrix) |
 | [0621-task-scheduler](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0621-task-scheduler) |
@@ -368,6 +369,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | ------- |
 | [0075-sort-colors](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0179-largest-number) |
+| [0506-relative-ranks](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0621-task-scheduler) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0853-car-fleet) |
@@ -388,6 +390,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0239-sliding-window-maximum) |
+| [0506-relative-ranks](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0621-task-scheduler) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
