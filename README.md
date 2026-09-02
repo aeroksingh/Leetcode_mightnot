@@ -73,6 +73,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2295-replace-elements-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2295-replace-elements-in-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2540-minimum-common-value](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2540-minimum-common-value) |
 | [2560-house-robber-iv](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2560-house-robber-iv) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -123,6 +124,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1901-find-a-peak-element-ii) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2906-construct-product-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -358,6 +360,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1929-concatenation-of-array) |
 | [2295-replace-elements-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2295-replace-elements-in-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
@@ -382,6 +385,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -393,6 +397,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0506-relative-ranks](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0621-task-scheduler) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
