@@ -368,6 +368,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0050-powx-n) |
 ## Sorting
 |  |
@@ -406,6 +407,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0138-copy-list-with-random-pointer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
