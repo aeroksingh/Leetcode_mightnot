@@ -395,6 +395,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0621-task-scheduler) |
@@ -404,6 +405,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0138-copy-list-with-random-pointer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
@@ -527,4 +529,16 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0239-sliding-window-maximum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
