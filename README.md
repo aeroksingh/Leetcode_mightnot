@@ -93,6 +93,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [3731-find-missing-elements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -283,6 +284,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3903-smallest-stable-index-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
 | ------- |
