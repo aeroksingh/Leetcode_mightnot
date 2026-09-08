@@ -112,6 +112,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3270-find-the-key-of-the-numbers](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3270-find-the-key-of-the-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3870-count-commas-in-range](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Matrix
