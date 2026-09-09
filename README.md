@@ -294,6 +294,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0090-subsets-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0260-single-number-iii) |
+| [0461-hamming-distance](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0461-hamming-distance) |
 | [1009-complement-of-base-10-integer](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1009-complement-of-base-10-integer) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1720-decode-xored-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1720-decode-xored-array) |
