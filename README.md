@@ -104,6 +104,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0070-climbing-stairs](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0189-rotate-array) |
+| [0279-perfect-squares](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0279-perfect-squares) |
 | [0877-stone-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0877-stone-game) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -214,6 +215,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0131-palindrome-partitioning](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0410-split-array-largest-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0746-min-cost-climbing-stairs) |
@@ -346,6 +348,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0112-path-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0112-path-sum) |
 | [0210-course-schedule-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -560,4 +563,12 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0023-merge-k-sorted-lists) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
