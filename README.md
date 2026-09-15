@@ -36,6 +36,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0416-partition-equal-subset-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0560-subarray-sum-equals-k) |
@@ -221,6 +222,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0322-coin-change](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1049-last-stone-weight-ii) |
@@ -277,6 +279,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0090-subsets-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0494-target-sum) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1980-find-unique-binary-string) |
@@ -572,6 +575,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0279-perfect-squares](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -581,6 +585,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0494-target-sum) |
 ## Geometry
 |  |
 | ------- |
