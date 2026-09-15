@@ -570,11 +570,13 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0322-coin-change) |
 ## 0-1 Knapsack
 |  |
 | ------- |
