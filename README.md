@@ -161,6 +161,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0844-backspace-string-compare](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1189-maximum-number-of-balloons) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -231,6 +232,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1049-last-stone-weight-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2560-house-robber-iv](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2560-house-robber-iv) |
