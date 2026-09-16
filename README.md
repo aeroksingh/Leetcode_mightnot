@@ -156,6 +156,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0316-remove-duplicate-letters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0500-keyboard-row) |
+| [0516-longest-palindromic-subsequence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1143-longest-common-subsequence) |
@@ -224,6 +225,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0410-split-array-largest-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1049-last-stone-weight-ii) |
