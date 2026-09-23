@@ -223,6 +223,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0063-unique-paths-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0072-edit-distance) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0213-house-robber-ii) |
@@ -334,6 +335,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0111-minimum-depth-of-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0404-sum-of-left-leaves) |
@@ -347,6 +349,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0111-minimum-depth-of-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0210-course-schedule-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -381,6 +384,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0111-minimum-depth-of-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0404-sum-of-left-leaves) |
@@ -609,5 +613,6 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
