@@ -606,4 +606,8 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1143-longest-common-subsequence) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
