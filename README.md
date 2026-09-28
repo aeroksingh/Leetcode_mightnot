@@ -330,6 +330,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -347,6 +348,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0112-path-sum) |
@@ -379,6 +381,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -475,6 +478,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0033-search-in-rotated-sorted-array) |
+| [0098-validate-binary-search-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
