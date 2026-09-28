@@ -166,6 +166,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
@@ -188,6 +189,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0316-remove-duplicate-letters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0316-remove-duplicate-letters) |
 | [0844-backspace-string-compare](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0853-car-fleet) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
 |  |
@@ -615,4 +617,8 @@ This repository will be holding the Leetcode submissions of my way solved.
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0543-diameter-of-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
