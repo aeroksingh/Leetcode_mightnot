@@ -153,6 +153,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0079-word-search) |
@@ -188,6 +189,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0316-remove-duplicate-letters) |
@@ -638,5 +640,6 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
