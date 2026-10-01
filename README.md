@@ -191,6 +191,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | ------- |
 | [0020-valid-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0042-trapping-rain-water) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0316-remove-duplicate-letters) |
 | [0844-backspace-string-compare](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0844-backspace-string-compare) |
@@ -344,6 +345,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0111-minimum-depth-of-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -361,6 +363,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0111-minimum-depth-of-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0210-course-schedule-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0226-invert-binary-tree) |
@@ -401,6 +404,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0111-minimum-depth-of-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -467,6 +471,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0023-merge-k-sorted-lists](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0025-reverse-nodes-in-k-group) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0138-copy-list-with-random-pointer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
