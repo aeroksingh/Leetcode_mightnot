@@ -49,6 +49,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0853-car-fleet](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1049-last-stone-weight-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1049-last-stone-weight-ii) |
 | [1122-relative-sort-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1122-relative-sort-array) |
@@ -131,6 +132,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0079-word-search](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0566-reshape-the-matrix) |
+| [0994-rotting-oranges](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -385,6 +387,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0785-is-graph-bipartite](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0886-possible-bipartition) |
+| [0994-rotting-oranges](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
