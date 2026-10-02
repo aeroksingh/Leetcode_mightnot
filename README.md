@@ -152,6 +152,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0022-generate-parentheses) |
@@ -227,6 +228,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0055-jump-game) |
@@ -491,6 +493,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0075-sort-colors) |
@@ -655,4 +658,8 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0020-valid-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
