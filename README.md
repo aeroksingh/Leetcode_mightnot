@@ -154,6 +154,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | ------- |
 | [0006-zigzag-conversion](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0079-word-search) |
@@ -226,6 +227,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0062-unique-paths) |
@@ -291,6 +293,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0051-n-queens) |
@@ -650,5 +653,6 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
