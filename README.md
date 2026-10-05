@@ -169,6 +169,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0541-reverse-string-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0856-score-of-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -202,6 +203,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0678-valid-parenthesis-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
@@ -666,6 +668,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0022-generate-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
 |  |
