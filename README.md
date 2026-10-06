@@ -285,6 +285,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0001-two-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0500-keyboard-row) |
@@ -493,10 +494,12 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
@@ -678,4 +681,8 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
