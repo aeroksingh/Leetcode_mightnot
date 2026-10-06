@@ -170,6 +170,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0678-valid-parenthesis-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -204,6 +205,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0844-backspace-string-compare](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
@@ -217,6 +219,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0410-split-array-largest-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1710-maximum-units-on-a-truck](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -669,6 +672,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0032-longest-valid-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
 |  |
