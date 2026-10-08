@@ -173,6 +173,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0844-backspace-string-compare](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -208,6 +209,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0853-car-fleet](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
@@ -681,6 +683,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0678-valid-parenthesis-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
 |  |
