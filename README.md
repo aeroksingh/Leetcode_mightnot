@@ -23,6 +23,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0090-subsets-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0189-rotate-array) |
@@ -254,6 +255,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0091-decode-ways](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0279-perfect-squares) |
