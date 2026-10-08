@@ -1,75 +1,66 @@
 class Solution {
 
+    Set<String> set = new HashSet<>();
+    int maxLen = 0;
+
     public List<String> removeInvalidParentheses(String s) {
 
-        List<String> result = new ArrayList<>();
-        Set<String> visited = new HashSet<>();
-        Queue<String> queue = new LinkedList<>();
+        StringBuilder curr = new StringBuilder();
 
-        queue.offer(s);
-        visited.add(s);
+        solve(0, curr, 0, s);
 
-        boolean found = false;
-
-        while (!queue.isEmpty()) {
-
-            int size = queue.size();
-
-            for (int i = 0; i < size; i++) {
-
-                String curr = queue.poll();
-
-                // Check if current string is valid
-                if (isValid(curr)) {
-                    result.add(curr);
-                    found = true;
-                }
-                if (found) {
-                    continue;
-                }
-                for (int j = 0; j < curr.length(); j++) {
-
-                    char ch = curr.charAt(j);
-                    if (ch != '(' && ch != ')') {
-                        continue;
-                    }
-
-                    String next = curr.substring(0, j)
-                            + curr.substring(j + 1);
-
-                    if (!visited.contains(next)) {
-                        visited.add(next);
-                        queue.offer(next);
-                    }
-                }
-            }
-
-            // First valid level = minimum removals
-            if (found) {
-                break;
-            }
-        }
-
-        return result;
+        return new ArrayList<>(set);
     }
 
-    private boolean isValid(String s) {
+    private void solve(int i, StringBuilder curr, int count, String s) {
 
-        int balance = 0;
-
-        for (char ch : s.toCharArray()) {
-
-            if (ch == '(') {
-                balance++;
-            } else if (ch == ')') {
-                balance--;
-            }
-
-            if (balance < 0) {
-                return false;
-            }
+        // Invalid prefix
+        if (count < 0) {
+            return;
         }
 
-        return balance == 0;
+        // Reached end
+        if (i == s.length()) {
+
+            if (count == 0) {
+
+                if (curr.length() > maxLen) {
+                    maxLen = curr.length();
+                    set.clear();
+                    set.add(curr.toString());
+                }
+                else if (curr.length() == maxLen) {
+                    set.add(curr.toString());
+                }
+            }
+
+            return;
+        }
+
+        char ch = s.charAt(i);
+
+        // Normal character
+        if (ch != '(' && ch != ')') {
+
+            curr.append(ch);
+
+            solve(i + 1, curr, count, s);
+
+            curr.deleteCharAt(curr.length() - 1);
+
+            return;
+        }
+
+        solve(i + 1, curr, count, s);
+        curr.append(ch);
+
+        if (ch == '(') {
+            solve(i + 1, curr, count + 1, s);
+        }
+        else {
+            solve(i + 1, curr, count - 1, s);
+        }
+
+        curr.deleteCharAt(curr.length() - 1);
     }
 }
