@@ -501,6 +501,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0025-reverse-nodes-in-k-group) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -522,6 +523,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0189-rotate-array) |
