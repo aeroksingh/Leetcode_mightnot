@@ -113,6 +113,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0279-perfect-squares](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0279-perfect-squares) |
 | [0836-rectangle-overlap](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0877-stone-game) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -178,6 +179,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1021-remove-outermost-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1189-maximum-number-of-balloons) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -228,6 +230,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0621-task-scheduler](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1710-maximum-units-on-a-truck) |
