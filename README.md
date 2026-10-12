@@ -477,6 +477,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | ------- |
 | [0075-sort-colors](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0179-largest-number) |
+| [0295-find-median-from-data-stream](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0295-find-median-from-data-stream) |
 | [0506-relative-ranks](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0621-task-scheduler) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -502,6 +503,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0295-find-median-from-data-stream) |
 | [0506-relative-ranks](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0621-task-scheduler) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -538,6 +540,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0042-trapping-rain-water](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0295-find-median-from-data-stream) |
 | [0541-reverse-string-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0844-backspace-string-compare) |
 | [2540-minimum-common-value](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2540-minimum-common-value) |
@@ -715,4 +718,9 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
