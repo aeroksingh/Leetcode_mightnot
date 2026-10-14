@@ -125,6 +125,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3270-find-the-key-of-the-numbers](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3270-find-the-key-of-the-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3875-construct-uniform-parity-array-i) |
@@ -245,6 +246,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [2333-minimum-sum-of-squared-difference](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2560-house-robber-iv](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2560-house-robber-iv) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
