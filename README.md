@@ -99,6 +99,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [3548-equal-sum-grid-partition-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3643-flip-square-submatrix-vertically) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -244,6 +245,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [2333-minimum-sum-of-squared-difference](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2560-house-robber-iv](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2560-house-robber-iv) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -497,6 +499,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
