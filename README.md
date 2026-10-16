@@ -87,6 +87,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2906-construct-product-matrix) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -321,6 +322,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [2423-remove-letter-to-equalize-frequency](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2540-minimum-common-value](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -728,4 +730,12 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0295-find-median-from-data-stream) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
