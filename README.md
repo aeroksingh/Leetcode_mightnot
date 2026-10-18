@@ -98,6 +98,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3643-flip-square-submatrix-vertically) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -327,6 +328,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
@@ -502,6 +504,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [2500-delete-greatest-value-in-each-row](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3731-find-missing-elements) |
