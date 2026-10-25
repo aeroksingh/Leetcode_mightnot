@@ -47,6 +47,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0704-binary-search](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0832-flipping-an-image](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0832-flipping-an-image) |
 | [0853-car-fleet](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0877-stone-game) |
@@ -142,6 +143,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0079-word-search](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -373,6 +375,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0137-single-number-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0260-single-number-iii) |
 | [0461-hamming-distance](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0461-hamming-distance) |
+| [0832-flipping-an-image](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1009-complement-of-base-10-integer) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1720-decode-xored-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1720-decode-xored-array) |
@@ -467,6 +470,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | ------- |
 | [0054-spiral-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -554,6 +558,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0189-rotate-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0295-find-median-from-data-stream) |
 | [0541-reverse-string-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0541-reverse-string-ii) |
+| [0832-flipping-an-image](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0844-backspace-string-compare) |
 | [2540-minimum-common-value](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3643-flip-square-submatrix-vertically) |
