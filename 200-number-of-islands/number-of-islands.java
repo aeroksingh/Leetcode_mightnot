@@ -1,48 +1,38 @@
-class Solution {
-    int[][] directions = {
-        {0,1},
-        {0,-1},
-        {1,0},
-        {-1,0}
-    };
 
+class Solution {
     public int numIslands(char[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
-
         int count = 0;
 
-        for(int i = 0; i < m; i++){
-            for(int j = 0; j < n; j++){
-
-                if(grid[i][j] == '1'){
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == '1') {
                     count++;
-                    dfs(grid, i, j);
+                    bfs(grid, i, j);
                 }
             }
         }
-
         return count;
     }
 
-    private void dfs(char[][] grid, int i, int j){
-
-        if(i < 0 || i >= grid.length ||
-           j < 0 || j >= grid[0].length){
+    private void bfs(char[][] grid, int i, int j) {
+        if (i < 0 || i >= grid.length ||
+            j < 0 || j >= grid[0].length ||
+            grid[i][j] != '1') {
             return;
         }
 
-        if(grid[i][j] == '0')
-            return;
+        int[] dr = {-1, 1, 0, 0};
+        int[] dc = {0, 0, 1, -1};
 
         grid[i][j] = '0';
 
-        for(int[] dir : directions){
+        for (int k = 0; k < 4; k++) {
+            int newR = i + dr[k];
+            int newC = j + dc[k];
 
-            int newR = i + dir[0];
-            int newC = j + dir[1];
-
-            dfs(grid, newR, newC);
+            bfs(grid, newR, newC);
         }
     }
 }
