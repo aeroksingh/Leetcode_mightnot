@@ -11,6 +11,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0033-search-in-rotated-sorted-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0051-n-queens) |
@@ -237,6 +238,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0316-remove-duplicate-letters) |
@@ -272,6 +274,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0022-generate-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0063-unique-paths-ii) |
