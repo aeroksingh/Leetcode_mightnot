@@ -39,6 +39,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0416-partition-equal-subset-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0419-battleships-in-a-board) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0494-target-sum) |
@@ -123,6 +124,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0150-evaluate-reverse-polish-notation](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0279-perfect-squares) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0877-stone-game) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1247-minimum-swaps-to-make-strings-equal) |
