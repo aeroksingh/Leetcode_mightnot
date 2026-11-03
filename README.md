@@ -110,6 +110,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [3643-flip-square-submatrix-vertically](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3643-flip-square-submatrix-vertically) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -137,6 +138,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [3270-find-the-key-of-the-numbers](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3270-find-the-key-of-the-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3875-construct-uniform-parity-array-i) |
