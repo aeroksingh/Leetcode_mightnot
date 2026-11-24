@@ -219,6 +219,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1980-find-unique-binary-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
