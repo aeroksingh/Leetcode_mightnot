@@ -61,6 +61,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [1122-relative-sort-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1352-product-of-the-last-k-numbers) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1470-shuffle-the-array](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1470-shuffle-the-array) |
@@ -129,6 +130,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | [0836-rectangle-overlap](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0877-stone-game) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1352-product-of-the-last-k-numbers) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -372,6 +374,7 @@ This repository will be holding the Leetcode submissions of my way solved.
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1352-product-of-the-last-k-numbers) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1732-find-the-highest-altitude](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -758,10 +761,12 @@ This repository will be holding the Leetcode submissions of my way solved.
 | ------- |
 | [0146-lru-cache](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aeroksingh/Leetcode_mightnot/tree/master/1352-product-of-the-last-k-numbers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
